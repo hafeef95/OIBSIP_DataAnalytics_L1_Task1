@@ -1,0 +1,39 @@
+# OIBSIP Data Analytics – Task 1
+
+## EDA on Retail Sales Data
+
+This project is part of the OASIS Infobyte Data Analytics Internship.
+
+### Objective
+
+The objective of this project is to perform Exploratory Data Analysis (EDA) on retail sales data and identify useful patterns, trends, and business insights.
+
+### Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Analysis Performed
+
+- Dataset inspection
+- Descriptive statistics
+- Monthly sales trend analysis
+- Quarterly sales trend analysis
+- Customer segment analysis
+- Top 10 best-selling products
+- Revenue by product category
+- Correlation analysis
+- Regional sales analysis
+
+### Key Insights
+
+The analysis provides insights into sales trends, customer segments, product performance, product categories, and regional sales performance.
+
+### Business Recommendations
+
+1. Focus on high-demand products and maintain sufficient inventory.
+2. Strengthen sales strategies for high-revenue categories and regions.
+3. Use sales trends for better forecasting, inventory planning, and promotional strategies.
